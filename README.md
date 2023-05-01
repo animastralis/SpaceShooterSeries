@@ -1,2 +1,2 @@
-# EndlessRunnerSeries
-The same endless runner game made with different languages and frameworks
+# SpaceShooterSeries
+The same space shooter game made with different languages and frameworks
